@@ -93,8 +93,11 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1164018551
 =======
+=======
+>>>>>>> parent of 28f1765... ScenaryAtt
 =======
 >>>>>>> parent of 28f1765... ScenaryAtt
 --- !u!1 &124445072
@@ -624,6 +627,7 @@ Prefab:
       propertyPath: m_Name
       value: Walk2 (4)
 <<<<<<< HEAD
+<<<<<<< HEAD
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7adb9832a87994e4d94f46773604fe4d, type: 3}
@@ -644,6 +648,8 @@ Prefab:
     - target: {fileID: 400002, guid: 3c555537cdac7874baa74ddb1883f914, type: 3}
       propertyPath: m_LocalPosition.y
       value: 9154.176
+=======
+>>>>>>> parent of 28f1765... ScenaryAtt
 =======
 >>>>>>> parent of 28f1765... ScenaryAtt
       objectReference: {fileID: 0}
@@ -682,7 +688,10 @@ Prefab:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 28f1765... ScenaryAtt
 =======
 >>>>>>> parent of 28f1765... ScenaryAtt
       value: 2
@@ -846,6 +855,7 @@ Prefab:
       value: Walk3 (1)
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3c555537cdac7874baa74ddb1883f914, type: 3}
   m_IsPrefabParent: 0
@@ -876,6 +886,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3c555537cdac7874baa74ddb1883f914, type: 3}
   m_IsPrefabParent: 0
+=======
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3c555537cdac7874baa74ddb1883f914, type: 3}
+  m_IsPrefabParent: 0
+>>>>>>> parent of 28f1765... ScenaryAtt
 --- !u!1001 &2059338507
 Prefab:
   m_ObjectHideFlags: 0
