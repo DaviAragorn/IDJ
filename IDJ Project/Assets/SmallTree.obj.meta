@@ -1,17 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 74acd450176bba54387f8233c4f07e5f
-timeCreated: 1503409696
-licenseType: Free
 ModelImporter:
   serializedVersion: 21
-=======
-guid: b04fa28f2023220439116c0c610903ae
-timeCreated: 1503407238
-licenseType: Free
-ModelImporter:
-  serializedVersion: 19
->>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
@@ -20,6 +10,7 @@ ModelImporter:
     2300000: default
     3300000: default
     4300000: default
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -30,11 +21,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-<<<<<<< HEAD
     rigImportErrors: 
     rigImportWarnings: 
-=======
->>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -45,15 +33,11 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-<<<<<<< HEAD
     extraUserProperties: []
-=======
->>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-<<<<<<< HEAD
     globalScale: 1
     meshCompression: 0
     addColliders: 0
@@ -61,12 +45,6 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-=======
-    globalScale: 0.1
-    meshCompression: 0
-    addColliders: 0
-    importBlendShapes: 1
->>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -82,10 +60,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-<<<<<<< HEAD
     normalCalculationMode: 4
-=======
->>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -105,7 +80,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
