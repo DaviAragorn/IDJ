@@ -1,9 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 558d3fdc2f5aded459ac0961033be0bb
 timeCreated: 1503409692
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
+=======
+guid: 755ec73b239f8a94d889b28096705bd2
+timeCreated: 1503407237
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
   fileIDToRecycleName:
     100000: default
     100002: //RootNode
@@ -22,8 +30,11 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+<<<<<<< HEAD
     rigImportErrors: 
     rigImportWarnings: 
+=======
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -34,11 +45,15 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+<<<<<<< HEAD
     extraUserProperties: []
+=======
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
+<<<<<<< HEAD
     globalScale: 1
     meshCompression: 0
     addColliders: 0
@@ -46,6 +61,12 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+=======
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -61,7 +82,10 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+<<<<<<< HEAD
     normalCalculationMode: 4
+=======
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

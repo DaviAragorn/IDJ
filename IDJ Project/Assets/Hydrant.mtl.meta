@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8f2adabee8467ff4394278ab984cebec
 timeCreated: 1503409685
+=======
+guid: cf3e2f36a383ad54995823668f7012b2
+timeCreated: 1503407235
+>>>>>>> 8df63a2743616bbd16fb2d05e29bac22695e10a6
 licenseType: Free
 DefaultImporter:
   userData: 
