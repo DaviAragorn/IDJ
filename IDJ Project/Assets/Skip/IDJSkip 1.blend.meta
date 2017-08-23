@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 8ec2bb65f4006954d82664f1243bfa18
+timeCreated: 1503498621
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle_001
+    100004: Circle
+    100006: Cylinder
+    100008: Cylinder_001
+    100010: Cylinder_002
+    100012: Cylinder_003
+    100014: FrontShell
+    100016: Head
+    100018: //RootNode
+    100020: LeftEye
+    100022: LeftEyeball
+    100024: LowerLeftEye
+    100026: LowerRightEye
+    100028: Plane_004
+    100030: Plane_005
+    100032: Plane_006
+    100034: RightEye
+    100036: RightEyeball
+    100038: Shell
+    100040: UpperLeftEye
+    100042: UpperRightEye
+    400000: BezierCircle
+    400002: BezierCircle_001
+    400004: Circle
+    400006: Cylinder
+    400008: Cylinder_001
+    400010: Cylinder_002
+    400012: Cylinder_003
+    400014: FrontShell
+    400016: Head
+    400018: //RootNode
+    400020: LeftEye
+    400022: LeftEyeball
+    400024: LowerLeftEye
+    400026: LowerRightEye
+    400028: Plane_004
+    400030: Plane_005
+    400032: Plane_006
+    400034: RightEye
+    400036: RightEyeball
+    400038: Shell
+    400040: UpperLeftEye
+    400042: UpperRightEye
+    2300000: BezierCircle
+    2300002: BezierCircle_001
+    2300004: Circle
+    2300006: FrontShell
+    2300008: LeftEye
+    2300010: LeftEyeball
+    2300012: LowerLeftEye
+    2300014: LowerRightEye
+    2300016: Plane_004
+    2300018: Plane_005
+    2300020: Plane_006
+    2300022: RightEye
+    2300024: RightEyeball
+    2300026: Shell
+    2300028: UpperLeftEye
+    2300030: UpperRightEye
+    3300000: BezierCircle
+    3300002: BezierCircle_001
+    3300004: Circle
+    3300006: FrontShell
+    3300008: LeftEye
+    3300010: LeftEyeball
+    3300012: LowerLeftEye
+    3300014: LowerRightEye
+    3300016: Plane_004
+    3300018: Plane_005
+    3300020: Plane_006
+    3300022: RightEye
+    3300024: RightEyeball
+    3300026: Shell
+    3300028: UpperLeftEye
+    3300030: UpperRightEye
+    4300000: Cylinder_003
+    4300002: Cylinder_001
+    4300004: Cylinder_002
+    4300006: Circle
+    4300008: BezierCircle
+    4300010: BezierCircle_001
+    4300012: Cylinder
+    4300014: Shell
+    4300016: Plane_004
+    4300018: Plane_005
+    4300020: Plane_006
+    4300022: LeftEye
+    4300024: Head
+    4300026: UpperLeftEye
+    4300028: LowerRightEye
+    4300030: RightEye
+    4300032: LeftEyeball
+    4300034: RightEyeball
+    4300036: LowerLeftEye
+    4300038: UpperRightEye
+    4300040: FrontShell
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    13700000: Cylinder
+    13700002: Cylinder_001
+    13700004: Cylinder_002
+    13700006: Cylinder_003
+    13700008: Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BezierCircle
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: FrontShell
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: LeftEyeball
+        weight: 1
+      - path: LowerLeftEye
+        weight: 1
+      - path: LowerRightEye
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      - path: Plane_005
+        weight: 1
+      - path: Plane_006
+        weight: 1
+      - path: RightEye
+        weight: 1
+      - path: RightEyeball
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: UpperLeftEye
+        weight: 1
+      - path: UpperRightEye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Default Take
+      firstFrame: 180
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BezierCircle
+        weight: 1
+      - path: BezierCircle_001
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: FrontShell
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftEye
+        weight: 1
+      - path: LeftEyeball
+        weight: 1
+      - path: LowerLeftEye
+        weight: 1
+      - path: LowerRightEye
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      - path: Plane_005
+        weight: 1
+      - path: Plane_006
+        weight: 1
+      - path: RightEye
+        weight: 1
+      - path: RightEyeball
+        weight: 1
+      - path: Shell
+        weight: 1
+      - path: UpperLeftEye
+        weight: 1
+      - path: UpperRightEye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
