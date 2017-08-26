@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 8ec2bb65f4006954d82664f1243bfa18
-timeCreated: 1503498621
+guid: e37f2bd9e39eb8544aa7786269c9faf2
+timeCreated: 1503504856
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -8,44 +8,44 @@ ModelImporter:
     100000: BezierCircle
     100002: BezierCircle_001
     100004: Circle
-    100006: Cylinder
-    100008: Cylinder_001
-    100010: Cylinder_002
-    100012: Cylinder_003
-    100014: FrontShell
-    100016: Head
-    100018: //RootNode
-    100020: LeftEye
-    100022: LeftEyeball
-    100024: LowerLeftEye
-    100026: LowerRightEye
-    100028: Plane_004
-    100030: Plane_005
-    100032: Plane_006
-    100034: RightEye
-    100036: RightEyeball
+    100006: FrontShell
+    100008: Head
+    100010: //RootNode
+    100012: LeftArm
+    100014: LeftEye
+    100016: LeftEyeball
+    100018: LeftHair
+    100020: LeftLeg
+    100022: LowerLeftEye
+    100024: LowerRightEye
+    100026: MiddleHair
+    100028: RightArm
+    100030: RightEye
+    100032: RightEyeball
+    100034: RightHair
+    100036: RightLeg
     100038: Shell
     100040: UpperLeftEye
     100042: UpperRightEye
     400000: BezierCircle
     400002: BezierCircle_001
     400004: Circle
-    400006: Cylinder
-    400008: Cylinder_001
-    400010: Cylinder_002
-    400012: Cylinder_003
-    400014: FrontShell
-    400016: Head
-    400018: //RootNode
-    400020: LeftEye
-    400022: LeftEyeball
-    400024: LowerLeftEye
-    400026: LowerRightEye
-    400028: Plane_004
-    400030: Plane_005
-    400032: Plane_006
-    400034: RightEye
-    400036: RightEyeball
+    400006: FrontShell
+    400008: Head
+    400010: //RootNode
+    400012: LeftArm
+    400014: LeftEye
+    400016: LeftEyeball
+    400018: LeftHair
+    400020: LeftLeg
+    400022: LowerLeftEye
+    400024: LowerRightEye
+    400026: MiddleHair
+    400028: RightArm
+    400030: RightEye
+    400032: RightEyeball
+    400034: RightHair
+    400036: RightLeg
     400038: Shell
     400040: UpperLeftEye
     400042: UpperRightEye
@@ -55,13 +55,13 @@ ModelImporter:
     2300006: FrontShell
     2300008: LeftEye
     2300010: LeftEyeball
-    2300012: LowerLeftEye
-    2300014: LowerRightEye
-    2300016: Plane_004
-    2300018: Plane_005
-    2300020: Plane_006
-    2300022: RightEye
-    2300024: RightEyeball
+    2300012: LeftHair
+    2300014: LowerLeftEye
+    2300016: LowerRightEye
+    2300018: MiddleHair
+    2300020: RightEye
+    2300022: RightEyeball
+    2300024: RightHair
     2300026: Shell
     2300028: UpperLeftEye
     2300030: UpperRightEye
@@ -71,27 +71,27 @@ ModelImporter:
     3300006: FrontShell
     3300008: LeftEye
     3300010: LeftEyeball
-    3300012: LowerLeftEye
-    3300014: LowerRightEye
-    3300016: Plane_004
-    3300018: Plane_005
-    3300020: Plane_006
-    3300022: RightEye
-    3300024: RightEyeball
+    3300012: LeftHair
+    3300014: LowerLeftEye
+    3300016: LowerRightEye
+    3300018: MiddleHair
+    3300020: RightEye
+    3300022: RightEyeball
+    3300024: RightHair
     3300026: Shell
     3300028: UpperLeftEye
     3300030: UpperRightEye
-    4300000: Cylinder_003
-    4300002: Cylinder_001
-    4300004: Cylinder_002
+    4300000: RightArm
+    4300002: LeftLeg
+    4300004: LeftArm
     4300006: Circle
     4300008: BezierCircle
     4300010: BezierCircle_001
-    4300012: Cylinder
+    4300012: RightLeg
     4300014: Shell
-    4300016: Plane_004
-    4300018: Plane_005
-    4300020: Plane_006
+    4300016: RightHair
+    4300018: MiddleHair
+    4300020: LeftHair
     4300022: LeftEye
     4300024: Head
     4300026: UpperLeftEye
@@ -105,11 +105,11 @@ ModelImporter:
     7400000: Idle
     7400002: Walk
     9500000: //RootNode
-    13700000: Cylinder
-    13700002: Cylinder_001
-    13700004: Cylinder_002
-    13700006: Cylinder_003
-    13700008: Head
+    13700000: Head
+    13700002: LeftArm
+    13700004: LeftLeg
+    13700006: RightArm
+    13700008: RightLeg
   materials:
     importMaterials: 1
     materialName: 0
@@ -135,7 +135,7 @@ ModelImporter:
       name: Idle
       takeName: Default Take
       firstFrame: 0
-      lastFrame: 180
+      lastFrame: 140
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -164,35 +164,35 @@ ModelImporter:
         weight: 1
       - path: Circle
         weight: 1
-      - path: Cylinder
-        weight: 1
-      - path: Cylinder_001
-        weight: 1
-      - path: Cylinder_002
-        weight: 1
-      - path: Cylinder_003
-        weight: 1
       - path: FrontShell
         weight: 1
       - path: Head
+        weight: 1
+      - path: LeftArm
         weight: 1
       - path: LeftEye
         weight: 1
       - path: LeftEyeball
         weight: 1
+      - path: LeftHair
+        weight: 1
+      - path: LeftLeg
+        weight: 1
       - path: LowerLeftEye
         weight: 1
       - path: LowerRightEye
         weight: 1
-      - path: Plane_004
+      - path: MiddleHair
         weight: 1
-      - path: Plane_005
-        weight: 1
-      - path: Plane_006
+      - path: RightArm
         weight: 1
       - path: RightEye
         weight: 1
       - path: RightEyeball
+        weight: 1
+      - path: RightHair
+        weight: 1
+      - path: RightLeg
         weight: 1
       - path: Shell
         weight: 1
@@ -207,7 +207,7 @@ ModelImporter:
       name: Walk
       takeName: Default Take
       firstFrame: 180
-      lastFrame: 239
+      lastFrame: 230
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -236,35 +236,35 @@ ModelImporter:
         weight: 1
       - path: Circle
         weight: 1
-      - path: Cylinder
-        weight: 1
-      - path: Cylinder_001
-        weight: 1
-      - path: Cylinder_002
-        weight: 1
-      - path: Cylinder_003
-        weight: 1
       - path: FrontShell
         weight: 1
       - path: Head
+        weight: 1
+      - path: LeftArm
         weight: 1
       - path: LeftEye
         weight: 1
       - path: LeftEyeball
         weight: 1
+      - path: LeftHair
+        weight: 1
+      - path: LeftLeg
+        weight: 1
       - path: LowerLeftEye
         weight: 1
       - path: LowerRightEye
         weight: 1
-      - path: Plane_004
+      - path: MiddleHair
         weight: 1
-      - path: Plane_005
-        weight: 1
-      - path: Plane_006
+      - path: RightArm
         weight: 1
       - path: RightEye
         weight: 1
       - path: RightEyeball
+        weight: 1
+      - path: RightHair
+        weight: 1
+      - path: RightLeg
         weight: 1
       - path: Shell
         weight: 1
